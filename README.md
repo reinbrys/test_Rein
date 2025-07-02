@@ -1,2 +1,2 @@
 # test_Rein
-show github functionality
+Show Github functionality.
